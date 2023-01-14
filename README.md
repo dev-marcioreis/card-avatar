@@ -1,3 +1,3 @@
-# Avatar-card
+# Card Avatar
 Card em HTML e CSS<br>
-Em desenvolvimento...https://devmarcioreis.github.io/avatar-card/
+

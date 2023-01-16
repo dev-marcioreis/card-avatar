@@ -1,4 +1,4 @@
 # Card Avatar
 Card em HTML e CSS<br>
-https://dev-marcioreis.github.io/card-avatar/
+Link de acesso: https://dev-marcioreis.github.io/card-avatar/
 ![image](https://user-images.githubusercontent.com/122680054/212475013-8e427cf7-aa92-42f3-a581-f871c57a20e0.png)

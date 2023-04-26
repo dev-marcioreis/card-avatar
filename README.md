@@ -6,7 +6,7 @@ Aprendizado.
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS
 
 ## ✒️ Autor
